@@ -13,4 +13,4 @@ my github account created on 27 april 2024 .
 <br>
 my first repo is First Trial Demo .
 <br>
-<br> is used for next line in github .
+It is used for next line in github .
