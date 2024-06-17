@@ -8,3 +8,9 @@ my first programming language is C .
 course name - btech.CSE(core) .
 <br>
 explore github first time...
+<br>
+my github account created on 27 april 2024 .
+<br>
+my first repo is First Trial Demo .
+<br>
+<br> is used for next line in github .
