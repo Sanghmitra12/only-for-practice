@@ -1,9 +1,9 @@
 # only-for-practice
 This is my second trial  .
 <br>
-created by Sanghmitra (engineer)
+created by Sanghmitra 
 <br>
-my first programming language is C .
+my first programming language is C ,C++
 <br>
 course name - btech.CSE(core) .
 <br>
